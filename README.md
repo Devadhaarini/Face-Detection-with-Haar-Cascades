@@ -55,6 +55,8 @@ iv) Perform face detection with label in real-time video from webcam.
 - Step 6: Release video capture and destroy all OpenCV windows
 
 ## Program
+### Developed by: Devadhaarini.D
+### Register number: 212223230040
 ```
 import numpy as np
 import cv2 
